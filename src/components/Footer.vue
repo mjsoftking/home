@@ -11,17 +11,14 @@
           {{ fullYear }}
           <a :href="siteUrl">{{ siteAnthor }}</a>
         </span>
-        <!-- 以下信息请不要修改哦 -->
-        <span class="hidden">
-          &amp;&nbsp;Made&nbsp;by
-          <a :href="config.github" target="_blank">
-            {{ config.author }}
-          </a>
-        </span>
         <!-- 站点备案 -->
         <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
           &amp;
           {{ siteIcp }}
+        </a>
+        <a v-if="siteIcp" href="https://beian.mps.gov.cn/#/query/webSearch?code=21010502000669" target="_blank">
+          &amp;
+          辽公网安备 21010502000669号
         </a>
       </div>
       <div v-else class="lrc">
