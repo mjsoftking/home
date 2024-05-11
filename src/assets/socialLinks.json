@@ -28,5 +28,11 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:zsjy@sw0.top"
+  },
+  {
+    "name": "RSS",
+    "icon": "/images/icon/rss.png",
+    "tip": "立即订阅 ~",
+    "url": "https://www.sw0.top/rss.xml"
   }
 ]
