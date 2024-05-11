@@ -1,12 +1,32 @@
 [
   {
-    "icon": "Blog",
+    "icon": "/images/icon/blog.png",
     "name": "博客",
     "link": "https://www.sw0.top/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "/images/icon/music2.png",
     "name": "音乐",
     "link": "https://www.sw0.top/"
+  },
+  {
+    "icon": "/images/icon/it-tools.png",
+    "name": "IT-Tools",
+    "link": "https://it-tools.sw0.top/"
+  },
+  {
+    "icon": "/images/icon/ip.png",
+    "name": "iP地址查询",
+    "link": "https://www.ip138.com/"
+  },
+  {
+    "icon": "/images/icon/draw.png",
+    "name": "在线画图",
+    "link": "https://draw.sw0.top/"
+  },
+  {
+    "icon": "/images/icon/yh.png",
+    "name": "放烟花",
+    "link": "https://demo.sw0.top/"
   }
 ]

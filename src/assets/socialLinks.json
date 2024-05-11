@@ -6,6 +6,18 @@
     "url": "https://github.com/zsjy"
   },
   {
+    "name": "Gitee",
+    "icon": "/images/icon/gitee.png",
+    "tip": "去 Gitee 看看",
+    "url": "https://space.bilibili.com/9622572"
+  },
+  {
+    "name": "CSDN",
+    "icon": "/images/icon/csdn.png",
+    "tip": "去 CSDN 看看",
+    "url": "https://space.bilibili.com/9622572"
+  },
+  {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
