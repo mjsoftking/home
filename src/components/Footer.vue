@@ -70,6 +70,10 @@ const siteUrl = computed(() => {
   font-size: 14px;
   .power {
     animation: fade 0.3s;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+    padding: 0 10px 0 10px;
   }
   .lrc {
     padding: 0 20px;
