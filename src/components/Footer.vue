@@ -9,7 +9,7 @@
             -
           </span>
           {{ fullYear }}
-          <a href="https://www.sw0.top">{{ siteAnthor }}</a>
+          <a target="_blank" href="https://www.sw0.top">{{ siteAnthor }}</a>
         </span>
         <!-- 站点备案 -->
         <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
