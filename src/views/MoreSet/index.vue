@@ -11,39 +11,14 @@
       />
     </transition>
     <el-row :gutter="40">
-      <el-col :span="12" class="left">
+      <el-col class="right">
         <div class="logo text-hidden">
           <span class="bg">智识</span>
           <span class="sm">家园</span>
         </div>
-        <div class="version">
-          <div class="num">v&nbsp;{{ config.version }}</div>
-          <el-tooltip content="Github 源代码仓库" placement="right" :show-arrow="false">
-            <github-one class="github" theme="outline" size="24" @click="jumpTo(config.github)" />
-          </el-tooltip>
-        </div>
-        <el-card class="update">
-          <template #header>
-            <div class="card-header">
-              <span>更新日志</span>
-            </div>
-          </template>
-          <div class="upnote">
-            <div v-for="item in upData.new" :key="item" class="uptext">
-              <add-one theme="outline" size="22" />
-              {{ item }}
-            </div>
-            <div v-for="item in upData.fix" :key="item" class="uptext">
-              <bug theme="outline" size="22" />
-              {{ item }}
-            </div>
-          </div>
-        </el-card>
-      </el-col>
-      <el-col :span="12" class="right">
         <div class="title">
           <setting-two theme="filled" size="28" fill="#ffffff60" />
-          <span class="name">全局设置</span>
+          <span class="name">全局设置 - 仅当前浏览器有效</span>
         </div>
         <Set />
       </el-col>
@@ -96,8 +71,9 @@ const jumpTo = (url) => {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  width: 80%;
-  height: 80%;
+  width: 40%;
+  height: auto;
+  max-height: 80%;
   background: rgb(255 255 255 / 40%);
   border-radius: 6px;
   padding: 40px;
@@ -204,10 +180,28 @@ const jumpTo = (url) => {
 
     .right {
       height: 100%;
+      width: 100%;
+      padding-left: 40px !important;
       padding-right: 40px !important;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+
+      .logo {
+        transform: translateY(-8%);
+        font-family: "Pacifico-Regular";
+        padding-left: 22px;
+        width: 100%;
+        height: auto;
+        min-height: 140px;
+        .bg {
+          font-size: 5rem;
+        }
+
+        .sm {
+          margin-left: 6px;
+          font-size: 2rem;
+        }
+      }
 
       .title {
         display: flex;
