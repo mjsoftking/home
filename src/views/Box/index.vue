@@ -23,7 +23,7 @@
     <div class="content">
       <!-- 可在此处自定义任意内容 -->
       <TimeCapsule />
-      <MoreContent />
+<!--      <MoreContent />-->
     </div>
   </div>
 </template>
@@ -42,7 +42,7 @@ const closeShow = ref(false);
 .box {
   flex: 1 0 0%;
   margin-left: 0.75rem;
-  height: 80%;
+  height: auto;
   max-width: 50%;
   position: relative;
   animation: fade 0.5s;
@@ -80,7 +80,7 @@ const closeShow = ref(false);
     flex-direction: column;
     padding: 30px;
     width: 100%;
-    height: 100%;
+    height: auto;
   }
 }
 </style>
