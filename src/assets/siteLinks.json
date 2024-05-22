@@ -1,7 +1,7 @@
 [
   {
     "icon": "/images/icon/blog.png",
-    "name": "智识家园",
+    "name": "博客",
     "link": "https://www.sw0.top/"
   },
   {
@@ -20,8 +20,18 @@
     "link": "https://draw.sw0.top/"
   },
   {
+    "icon": "/images/icon/drawio.png",
+    "name": "在线流程图",
+    "link": "https://draw.ssrpro.top/"
+  },
+  {
     "icon": "/images/icon/yh.png",
     "name": "放烟花",
     "link": "https://demo.sw0.top/"
+  },
+  {
+    "icon": "/images/icon/uptime.svg",
+    "name": "站点状态",
+    "link": "https://uptime.ssrpro.top/status/zsjy"
   }
 ]
