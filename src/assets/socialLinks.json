@@ -1,32 +1,38 @@
 [
   {
     "name": "Github",
-    "icon": "/images/icon/github.png",
+    "icon": "/images/icon/github1.png",
     "tip": "去 Github 看看",
     "url": "https://github.com/zsjy"
   },
   {
     "name": "Gitee",
-    "icon": "/images/icon/gitee.png",
+    "icon": "/images/icon/gitee.ico",
     "tip": "去 Gitee 看看",
     "url": "https://gitee.com/mjsoftking"
   },
   {
     "name": "Gitea",
-    "icon": "/images/icon/gitea1.png",
+    "icon": "/images/icon/gitea2.png",
     "tip": "去 Gitea 看看",
     "url": "https://git.ssrpro.top/"
   },
   {
     "name": "CSDN",
-    "icon": "/images/icon/csdn.png",
+    "icon": "/images/icon/csdn.ico",
     "tip": "去 CSDN 看看",
     "url": "https://blog.csdn.net/qq_36011182"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
+    "name": "哔哩哔哩",
+    "icon": "/images/icon/bilibili.ico",
     "tip": "(゜-゜)つロ 干杯 ~",
     "url": "https://space.bilibili.com/9622572"
+  },
+  {
+    "name": "iP查询",
+    "icon": "/images/icon/ip138.png",
+    "tip": "iP地址归属地查询",
+    "url": "https://www.ip138.com/"
   }
 ]

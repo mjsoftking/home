@@ -5,14 +5,14 @@
     "link": "https://www.sw0.top/"
   },
   {
+    "icon": "/images/icon/uptime.svg",
+    "name": "站点状态",
+    "link": "https://uptime.ssrpro.top/status/zsjy"
+  },
+  {
     "icon": "/images/icon/it-tools.png",
     "name": "IT-Tools",
     "link": "https://it-tools.sw0.top/"
-  },
-  {
-    "icon": "/images/icon/ip.png",
-    "name": "iP地址查询",
-    "link": "https://www.ip138.com/"
   },
   {
     "icon": "/images/icon/draw.png",
@@ -28,10 +28,5 @@
     "icon": "/images/icon/yh.png",
     "name": "放烟花",
     "link": "https://demo.sw0.top/"
-  },
-  {
-    "icon": "/images/icon/uptime.svg",
-    "name": "站点状态",
-    "link": "https://uptime.ssrpro.top/status/zsjy"
   }
 ]
