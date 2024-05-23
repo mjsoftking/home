@@ -6,8 +6,8 @@
   },
   {
     "icon": "/images/icon/uptime.svg",
-    "name": "站点状态",
-    "link": "https://uptime.ssrpro.top/status/zsjy"
+    "name": "服务状态",
+    "link": "https://service-states.sw0.top/"
   },
   {
     "icon": "/images/icon/it-tools.png",
@@ -22,7 +22,7 @@
   {
     "icon": "/images/icon/drawio.png",
     "name": "在线流程图",
-    "link": "https://draw.ssrpro.top/"
+    "link": "https://drawio.sw0.top/"
   },
   {
     "icon": "/images/icon/yh.png",
