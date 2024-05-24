@@ -12,12 +12,6 @@
     "url": "https://gitee.com/mjsoftking"
   },
   {
-    "name": "Gitea",
-    "icon": "/images/icon/gitea2.png",
-    "tip": "去 Gitea 看看",
-    "url": "https://git.sw0.top/"
-  },
-  {
     "name": "CSDN",
     "icon": "/images/icon/csdn.ico",
     "tip": "去 CSDN 看看",
@@ -30,9 +24,9 @@
     "url": "https://space.bilibili.com/9622572"
   },
   {
-    "name": "iP查询",
-    "icon": "/images/icon/ip138.png",
-    "tip": "iP地址归属地查询",
-    "url": "https://www.ip138.com/"
+    "name": "服务状态",
+    "icon": "/images/icon/uptime.svg",
+    "tip": "查看服务运行状态",
+    "url": "https://service-states.sw0.top/"
   }
 ]

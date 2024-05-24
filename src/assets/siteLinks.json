@@ -5,14 +5,14 @@
     "link": "https://www.sw0.top/"
   },
   {
-    "icon": "/images/icon/uptime.svg",
-    "name": "服务状态",
-    "link": "https://service-states.sw0.top/"
-  },
-  {
     "icon": "/images/icon/it-tools.png",
     "name": "IT-Tools",
     "link": "https://it-tools.sw0.top/"
+  },
+  {
+    "icon": "/images/icon/ip138.png",
+    "name": "iP查询",
+    "link": "https://www.ip138.com/"
   },
   {
     "icon": "/images/icon/draw.png",
