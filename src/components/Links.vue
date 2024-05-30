@@ -28,7 +28,6 @@
               @click="jumpLink(item)"
             >
               <Icon size="26">
-<!--                <component :is="siteIcon[item.icon]" />-->
                 <img class="icon" :src="item.icon" :width="26" :height="26" />
               </Icon>
               <span class="name text-hidden">{{ item.name }}</span>
