@@ -27,6 +27,6 @@
     "name": "服务运行状态",
     "icon": "/images/icon/uptime.svg",
     "tip": "查看服务运行状态",
-    "url": "https://service-states.sw0.top/"
+    "url": "https://state.sw0.top/"
   }
 ]
