@@ -10,11 +10,6 @@
     "link": "https://www.sw0.top/links"
   },
   {
-    "icon": "/images/icon/daohang.png",
-    "name": "导航",
-    "link": "https://home.sw0.top/"
-  },
-  {
     "icon": "/images/icon/it-tools.png",
     "name": "IT-Tools",
     "link": "https://it-tools.sw0.top/"
@@ -28,11 +23,6 @@
     "icon": "/images/icon/drawio.png",
     "name": "在线流程图",
     "link": "https://drawio.sw0.top/"
-  },
-  {
-    "icon": "/images/icon/ip138.png",
-    "name": "iP查询",
-    "link": "https://www.ip138.com/"
   },
   {
     "icon": "/images/icon/yh.png",
