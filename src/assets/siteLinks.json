@@ -5,9 +5,14 @@
     "link": "https://www.sw0.top/"
   },
   {
-    "icon": "/images/icon/friend.png",
+    "icon": "/images/icon/y.png",
     "name": "友情链接",
     "link": "https://www.sw0.top/links"
+  },
+  {
+    "icon": "/images/icon/friend1.png",
+    "name": "申请友链",
+    "link": "https://www.sw0.top/apply-links"
   },
   {
     "icon": "/images/icon/it-tools.png",
@@ -20,13 +25,8 @@
     "link": "https://draw.sw0.top/"
   },
   {
-    "icon": "/images/icon/drawio.png",
-    "name": "在线流程图",
-    "link": "https://drawio.sw0.top/"
-  },
-  {
     "icon": "/images/icon/yh.png",
-    "name": "放烟花",
+    "name": "烟花",
     "link": "https://demo.sw0.top/"
   }
 ]
